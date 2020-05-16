@@ -1,6 +1,6 @@
 layout: page
 title: "Use your phone number to create a new Facebook account and get your friend list"
-permalink: /sec/facebook_phone_number_scam
+permalink: /sec/facebook_phone_number_scam/
 # Use your phone number to create a new Facebook account and get your friend list
 ## Abstract (tl;dr)
 
