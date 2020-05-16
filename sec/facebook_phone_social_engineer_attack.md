@@ -1,4 +1,4 @@
-# Someone can use your phone number to create a new Facebook account and get your friend list
+# Someone may use your phone number to create a new Facebook account and get your friend list
 ## Abstract (tl;dr)
 
 1. Attacker creates a new Facebook account using your phone number. They may use your name to make it legit.
@@ -9,7 +9,7 @@
 
 The attacker now have a new account to sell likes or post craps.
 
-This is simple and stupid but there's a high chance that it will work. Moreover everyone can do it and it costs nothing.
+This is simple and stupid and not new but there's a high chance that it will work. Moreover everyone can do it and it costs nothing.
 
 ## What to do if you are in this situation
 1. Immediately change the password of the newly created account using **Forgot Password** feature. Facebook will send you a code to create new password.
