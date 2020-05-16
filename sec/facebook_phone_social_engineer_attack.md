@@ -1,4 +1,4 @@
-# Use your phone number to create a new Facebook account and get your friend list
+# Someone can use your phone number to create a new Facebook account and get your friend list
 ## Abstract (tl;dr)
 
 1. Attacker creates a new Facebook account using your phone number. They may use your name to make it legit.
